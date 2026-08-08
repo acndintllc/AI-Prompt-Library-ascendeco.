@@ -1,0 +1,11 @@
+Prompt_ID,Industry,Category,Technique,Prompt,Expected_Output,Difficulty,Model,Tags
+P0001,Healthcare,Diagnosis Assistant,Zero-Shot,Summarize the patient's symptoms and suggest possible differential diagnoses.,Structured medical summary with possible conditions.,Intermediate,GPT-4/5,"healthcare,diagnosis"
+P0002,Finance,Financial Analysis,Chain-of-Thought,Analyze the quarterly financial report and identify growth opportunities.,Financial insights and recommendations.,Advanced,GPT-4/5,"finance,analysis"
+P0003,Education,Lesson Planning,Few-Shot,Create a one-week Python lesson plan for beginners.,Daily lesson schedule with exercises.,Beginner,GPT-4/5,"education,python"
+P0004,Software,Code Generation,ReAct,Build a Flask CRUD API with authentication.,Production-ready project structure.,Advanced,GPT-4/5,"coding,flask"
+P0005,SQL,Query Generation,Zero-Shot,Write an SQL query to find the top 10 customers by revenue.,Optimized SQL query.,Intermediate,GPT-4/5,"sql,database"
+P0006,Marketing,Content Creation,Few-Shot,Generate a LinkedIn post announcing a new AI product.,Professional LinkedIn post.,Beginner,GPT-4/5,"marketing,linkedin"
+P0007,Cybersecurity,Threat Analysis,Chain-of-Thought,Analyze the provided log entries and identify suspicious activities.,Security report with risk assessment.,Advanced,GPT-4/5,"security,logs"
+P0008,Legal,Document Review,Zero-Shot,Summarize the key clauses of a service agreement.,Clause summary and potential risks.,Intermediate,GPT-4/5,"legal,contracts"
+P0009,HR,Interview,Few-Shot,Generate technical interview questions for a Machine Learning Engineer.,Interview questionnaire with answers.,Intermediate,GPT-4/5,"hr,interview"
+P0010,Research,Literature Review,RAG,Summarize recent research papers on AI Agents.,Research summary with key findings.,Advanced,GPT-4/5,"research,agents"
